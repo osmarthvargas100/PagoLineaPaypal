@@ -1,2 +1,4 @@
 # PagoLineaPaypal
-trabajo de buho
+Pago con API PAYPAL 
+
+GRUPO VARGAS // GAMBOA
